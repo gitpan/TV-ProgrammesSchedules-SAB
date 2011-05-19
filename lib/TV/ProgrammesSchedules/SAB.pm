@@ -20,11 +20,11 @@ TV::ProgrammesSchedules::SAB - Interface to SAB TV Programmes Schedules.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 Readonly my $BASE_URL => 'http://www.sabtv.com/comedy/';
 
 =head1 DESCRIPTION
@@ -173,8 +173,9 @@ L<http://search.cpan.org/dist/TV-ProgrammesSchedules-SAB/>
 
 Copyright 2011 Mohammad S Anwar.
 
-This  program  is  distributed  in  the hope that it will be useful, but WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+This  program  is  free  software; you can redistribute it and/or modify it under the terms of
+either:  the  GNU  General Public License as published by the Free Software Foundation; or the
+Artistic License.
 
 See http://dev.perl.org/licenses/ for more information.
 
