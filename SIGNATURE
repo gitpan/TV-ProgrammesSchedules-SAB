@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.66.
+signed via the Module::Signature module, version 0.68.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 d4fe85bbdef6b200ab1f94b3c1ed0d29b997c6bd Build.PL
-SHA1 cd963d98bce57b89e5e5e5258913c11cf5ba81c9 Changes
+SHA1 d5fa214c5481f9ab530285957bee5e637d953082 Build.PL
+SHA1 993f5b588daa624b0b2a7140c5b61fbd7ed17a82 Changes
 SHA1 f4f41e1a500df83546f870a375b388ea65b12e32 MANIFEST
 SHA1 7d20e4e840781030202bb045d5ab81b3fd1b68b0 MANIFEST.SKIP
-SHA1 ee6ad6c881ce4861b6c68dfdb406d628cec40202 META.yml
-SHA1 11d871f5917cb0545efaadb2bbeffb69e4e82d68 Makefile.PL
+SHA1 dd1905e71f2934541cc079909c951d1fc84001b7 META.yml
+SHA1 eeac7597f52a1e1660bbae7e381cb7d8cd4b934f Makefile.PL
 SHA1 dad48a66231c913987fff9837cb6a15d7144c719 README
-SHA1 9e7596137cf1a8ed1de0717865ebb16cdf2b14fe lib/TV/ProgrammesSchedules/SAB.pm
+SHA1 0606584efeb9bb37a902d39326add6c1300fd7c3 lib/TV/ProgrammesSchedules/SAB.pm
 SHA1 3d3a70f100cc3137aba03a21f4ff2d4e19459d26 t/00-load.t
 SHA1 6abde217433d6c1efd234d37bdba236bc59574e7 t/01-get_listings.t
 SHA1 2b8ffb7e4f399af95d092743846ac8d438f2c53e t/manifest.t
@@ -29,11 +29,11 @@ SHA1 0765c9ff0cc4319f415bb08d0053b7717a8284a2 t/pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.14 (MingW32)
 
-iQEcBAEBAgAGBQJN1O5sAAoJEPYcXBXhRYOhiRMH/REV/UdBVqO2Bxz6VEZs+O5o
-PCYEcRkNhAzTET7sQ9nFYmBWKQ0m6FpGLSvxq4VHD0XmP41DpLKgDy2rMSwTKk0m
-kANzJNjSxfK96BRlK8J2lbKhjHJhg31g08VfKBh81Hl6NGqcP/0p1D2qSumvbECw
-J6RoQoapcfrHXWmiWxEhHvjiruxmOTOeea6sEZo4NP4YtIhiR7ymj9efah/BJOKi
-PlAGT5V/63FFZ+f/yMxOFmk/6FGcfgskyRw56ZtGmF3nxym25fc8onze2NFS0Nra
-tRBPDATA/JBYkJfNMH8PB3Iv+7qK3EC7u2T/675ECwklS87DGApoW9Gt8DM8SC8=
-=hsj7
+iQEcBAEBAgAGBQJOQQqIAAoJEPYcXBXhRYOhinwH/34RFrsJ0lvwzVKQoyHy9/5L
+tnAbOrmqLxDKaknXtFikq/z2u+FhW5e04kGextIPlQkcr8D/VY2WX7qsbJVrK990
+suI1A5/lYNTSfDuPaM6w9hst0qCx5rDavMHG1mAAkC3G0iD5lBKl0Q65s+eMlPfw
+sfqVSXziXkksaKFcsgHo+4w0HFowwnHJdndHDqkyI8b6m7Kdcm6nB1TUPiYrxCP3
+6knSZmiLJzLfoKlKRiNMbeLcW+aEqwtFkK7DMcyKQ8KMGfXdfkiSTBV6TVGPFifM
+ypmGey+KRJn13QTPn/lnHh4pVXF7+9glKZRdGZzpQPpjPRtYK6VlgBzAwrese6Q=
+=IsoF
 -----END PGP SIGNATURE-----

@@ -9,7 +9,7 @@ build_requires:
   Moose: 2.0006
   Moose::Util::TypeConstraints: 2.0006
   MooseX::Params::Validate: 0.16
-  Readonly: 0
+  Readonly: 1.03
   Test::More: 0
   Time::localtime: 1.02
   namespace::clean: 0.20
@@ -24,7 +24,7 @@ name: TV-ProgrammesSchedules-SAB
 provides:
   TV::ProgrammesSchedules::SAB:
     file: lib/TV/ProgrammesSchedules/SAB.pm
-    version: 0.02
+    version: 0.03
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.02
+version: 0.03
